@@ -79,7 +79,7 @@ void main(void)
         
         while(0)
         {
-            __delay_ms(2000);
+            __delay_ms(1000);
             EUSART_Write('A');
         }
         
